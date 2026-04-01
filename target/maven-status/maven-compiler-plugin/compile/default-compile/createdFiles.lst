@@ -1,5 +1,7 @@
 com\hotel\Room.class
 com\hotel\App.class
+com\hotel\RoomStatus.class
+com\hotel\App$2.class
+com\hotel\InvalidBookingException.class
 com\hotel\Booking.class
 com\hotel\App$1.class
-com\hotel\App$2.class
